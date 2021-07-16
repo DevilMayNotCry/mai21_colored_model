@@ -2,10 +2,10 @@
 
 ## Image directory structure
 
-  dataset_dir -> train -> raw
-                       -> retouched
-              -> test  -> raw
-                       -> retouched
+  dataset_dir | train  | raw
+              |        | retouched
+              | test   | raw
+                       | retouched
 
 ## Jupyter
 
