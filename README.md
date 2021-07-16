@@ -1,13 +1,13 @@
 # Deep Learning for Smartphone ISP 
 
-## Image directory structure
+### Image directory structure
 
-  dataset_dir | train  | raw
-              |        | retouched
-              | test   | raw
-                       | retouched
+    dataset_dir | train  | raw
+                |        | retouched
+                | test   | raw
+                         | retouched
 
-## Jupyter
+### Jupyter
 
   cd /content/mai21-learned-smartphone-isp
   
